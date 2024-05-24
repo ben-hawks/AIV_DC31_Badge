@@ -1,0 +1,89 @@
+Info: Processing symbol 'BT1:BAT_BC2AAAPC'.
+Info: Processing symbol 'Q4:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'C1:'.
+Info: Processing symbol 'Q5:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'C2:'.
+Info: Processing symbol 'R1:'.
+Info: Processing symbol 'C3:'.
+Info: Processing symbol 'R2:'.
+Info: Processing symbol 'C4:'.
+Info: Processing symbol 'R3:'.
+Info: Processing symbol 'C5:'.
+Info: Processing symbol 'R4:'.
+Info: Processing symbol 'C6:'.
+Info: Processing symbol 'S2:KMR442NGLFS:KMR442NGLFS_CNK'.
+Info: Processing symbol 'C7:'.
+Info: Processing symbol 'R5:'.
+Info: Processing symbol 'C8:'.
+Info: Processing symbol 'R6:'.
+Info: Processing symbol 'C9:'.
+Info: Processing symbol 'R7:'.
+Info: Processing symbol 'C10:'.
+Info: Processing symbol 'R8:'.
+Info: Processing symbol 'C11:'.
+Info: Processing symbol 'S1:KMR442NGLFS:KMR442NGLFS_CNK'.
+Info: Processing symbol 'C12:'.
+Info: Processing symbol 'Y1:Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm'.
+Info: Processing symbol 'D1:'.
+Info: Processing symbol 'S3:KMR442NGLFS:KMR442NGLFS_CNK'.
+Info: Processing symbol 'D2:'.
+Info: Processing symbol 'S4:KMR442NGLFS:KMR442NGLFS_CNK'.
+Info: Processing symbol 'D3:SOT95P237X111-3N'.
+Info: Processing symbol 'S5:KMR442NGLFS:KMR442NGLFS_CNK'.
+Info: Processing symbol 'D4:SOT95P237X111-3N'.
+Info: Processing symbol 'J3:'.
+Info: Processing symbol 'D5:SOT95P237X111-3N'.
+Info: Processing symbol 'S6:KMR442NGLFS:KMR442NGLFS_CNK'.
+Info: Processing symbol 'D6:SOT95P237X111-3N'.
+Info: Processing symbol 'U1:Package_DFN_QFN:DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm'.
+Info: Processing symbol 'FPC1:EastRising Connectors:ER-CON24HT-1'.
+Info: Processing symbol 'J1:'.
+Info: Processing symbol 'U2:MODULE_SC0918'.
+Info: Processing symbol 'J2:'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'J4:'.
+Info: Processing symbol 'J5:Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal'.
+Info: Processing symbol 'L1:'.
+Info: Processing symbol 'LED1:'.
+Info: Processing symbol 'Q2:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'Q3:Package_TO_SOT_SMD:SOT-23'.
+Change BT1 footprint from 'SnapEDA Library:BAT_BC2AAAPC' to 'BAT_BC2AAAPC'.
+Change D5 footprint from 'SnapEDA Library:SOT95P237X111-3N' to 'SOT95P237X111-3N'.
+Change D6 footprint from 'SnapEDA Library:SOT95P237X111-3N' to 'SOT95P237X111-3N'.
+Change D3 footprint from 'SnapEDA Library:SOT95P237X111-3N' to 'SOT95P237X111-3N'.
+Change D4 footprint from 'SnapEDA Library:SOT95P237X111-3N' to 'SOT95P237X111-3N'.
+Add J5 (footprint 'Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal').
+Change U2 footprint from 'SnapEDA Library:MODULE_SC0918' to 'MODULE_SC0918'.
+Warning: No net found for symbol U1 pin 11.
+Error: Cannot add C5 (no footprint assigned).
+Error: Cannot add C6 (no footprint assigned).
+Error: Cannot add C7 (no footprint assigned).
+Error: Cannot add C8 (no footprint assigned).
+Error: Cannot add C9 (no footprint assigned).
+Error: Cannot add C10 (no footprint assigned).
+Error: Cannot add C11 (no footprint assigned).
+Error: Cannot add C12 (no footprint assigned).
+Error: Cannot add D1 (no footprint assigned).
+Error: Cannot add D2 (no footprint assigned).
+Error: Cannot add J1 (no footprint assigned).
+Error: Cannot add J2 (no footprint assigned).
+Error: Cannot add R1 (no footprint assigned).
+Error: Cannot add R7 (no footprint assigned).
+Error: Cannot add C1 (no footprint assigned).
+Error: Cannot add R8 (no footprint assigned).
+Error: Cannot add R2 (no footprint assigned).
+Error: Cannot add C2 (no footprint assigned).
+Error: Cannot add R3 (no footprint assigned).
+Error: Cannot add J4 (no footprint assigned).
+Error: Cannot add L1 (no footprint assigned).
+Error: Cannot add J3 (no footprint assigned).
+Error: Cannot add R5 (no footprint assigned).
+Error: Cannot add C3 (no footprint assigned).
+Error: Cannot add LED1 (no footprint assigned).
+Error: Cannot add C4 (no footprint assigned).
+Error: Cannot add R6 (no footprint assigned).
+Error: Cannot add R4 (no footprint assigned).
+
+
+Info: Total warnings: 0, errors: 28.

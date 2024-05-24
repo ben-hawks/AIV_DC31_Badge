@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "WPM")(type "KiCad")(uri "${KIPRJMOD}/WPM.kicad_sym")(options "")(descr ""))
+)
